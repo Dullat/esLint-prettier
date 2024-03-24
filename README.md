@@ -52,6 +52,7 @@ Automate preferences by changing `Preferences: Open Workspace Settings (JSON)`:
 ```
 
 Refer to the [ESLint guide](https://eslint.org/docs/latest/use/getting-started) for detailed instructions.
+Options: SingleQuote [ESLint Options](https://prettier.io/docs/en/options.html#quotes)
 
 ## Prettier with ESLint
 
