@@ -116,3 +116,6 @@ npx eslint --fix .
 ```
 
 This command will lint and fix any issues in your project's JavaScript, HTML, and CSS files according to the configured rules.
+
+### Guide video 
+[here](https://youtu.be/SydnKbGc7W8?si=xiS1EkqZCrlnL3CF)
